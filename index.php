@@ -488,7 +488,7 @@ session_start();
 </main>
 
 <footer class="container">
-    <p>&copy; Company 2017-2018</p>
+    <p>&copy; Company Hotel 2023</p>
 </footer>
 <script src="js/utilityFunctions.js"></script>
 <script src="node_modules/jquery/dist/jquery.min.js"></script>
